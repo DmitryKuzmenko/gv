@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Godville UI tricks
-// @namespace    https://raw.githubusercontent.com/DmitryKuzmenko/gv
-// @version      0.2
+// @namespace    https://github.com/DmitryKuzmenko/gv
+// @version      0.3
 // @description  Add wide resizeable mode to UI (3 columns)
 // @author       Dmitry Kuzmenko <dmitry.a.kuzmenko@gmail.com>
 // @match        http://godville.net/superhero
