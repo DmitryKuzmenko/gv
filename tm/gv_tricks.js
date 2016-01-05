@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Godville UI tricks
-// @namespace    http://tampermonkey.net/
+// @namespace    https://raw.githubusercontent.com/DmitryKuzmenko/gv
 // @version      0.1
 // @description  Add wide resizeable mode to UI (3 columns)
 // @author       Dmitry Kuzmenko <dmitry.a.kuzmenko@gmail.com>
