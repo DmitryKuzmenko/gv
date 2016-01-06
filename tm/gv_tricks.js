@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Godville UI tricks
 // @namespace    https://github.com/DmitryKuzmenko/gv
-// @version      0.3
+// @version      0.4
 // @description  Add wide resizeable mode to UI (3 columns)
 // @author       Dmitry Kuzmenko <dmitry.a.kuzmenko@gmail.com>
 // @match        http://godville.net/superhero
@@ -42,6 +42,9 @@ function doReLay(){
     $("#left_block").outerWidth(w_left);
     $("#central_block").outerWidth(w_cntr);
     $("#right_block").outerWidth(w_right);
+    $("#a_left_block").outerWidth(w_left);
+    $("#a_central_block").outerWidth(w_cntr);
+    $("#a_right_block").outerWidth(w_right);
 };
 
 function initReLay() {
